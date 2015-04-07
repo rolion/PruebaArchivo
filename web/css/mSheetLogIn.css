@@ -1,0 +1,55 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 05-abr-2015, 8:57:17
+    Author     : Lion
+*/
+
+.formLogin{
+    margin: 0;
+    padding: 0;
+    
+}
+.slogin {
+    alignment-adjust: central;
+    background: url("../css/recursos/usericon.png") ;
+    background-size: 25%;
+    background-color: #B03B19;
+    background-repeat: no-repeat;
+    background-position: 10% center;
+    border-radius: 0.5em;
+    box-shadow: rgba(0,0,0,0.5) 5px 5px 10px;
+    display: block;
+    margin: 7.5em 0 25.5em 23.5em;
+    padding: 0.5em;
+    width: 40%;
+}
+.slogin a{
+    font-style: italic;
+    font-weight: bold;
+    font-size: 1em;
+    color: blue;
+}
+.slogin p1{
+    color: white;
+    font-style:  initial;
+    font-size: 2em;
+    
+}
+.cbutton{
+    color: black;
+    font-size: 1em;
+    font-weight: bold;
+    width: 31%;
+    
+}
+.ctext{
+    font-size: 1em;
+    color: #AA7539;
+    width: 30%;
+    
+}
+

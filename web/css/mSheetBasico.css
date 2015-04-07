@@ -1,0 +1,64 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 05-abr-2015, 21:17:50
+    Author     : Lion
+*/
+header{
+    background: black;
+   // background-size: 50% auto;
+    color: white;
+    font-size: 2em;
+    font-style: oblique;
+    margin: 0;
+    padding: 1em 0;
+    //height: 1em
+}
+body{
+    background: #1C3477;
+    margin: 0;
+    padding: 0;
+    
+}
+
+header h1{
+    padding: 0;
+    margin: -0.5em 0;
+}
+nav{
+    background: #020D2C;
+    padding: 0.5em 0.5em;
+}
+ p{
+    color: white;
+    font-style:  initial;
+    font-size: 1em;
+    padding: 0 0 0 1em;
+}
+li{
+    color: beige;
+    font-size: 1em;
+    display: inline-block;
+    text-align:  -webkit-match-parent;
+    
+}
+li a{
+    color: beige;
+    font-size: 1em;
+    font-style: normal;
+    display: block;
+    padding: 0.5em;
+    position: relative;
+    text-decoration: none;  
+}
+div{ 
+    background-color: #B03B19;
+    border-radius: 0.5em;
+    padding: 0;
+    position: relative;
+    width: 49%;
+    
+}
